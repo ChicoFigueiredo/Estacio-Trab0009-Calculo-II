@@ -26,6 +26,14 @@
   file         = {:Silva2011 - Diferentes Dimensões Do Ensino E Aprendizagem Do Cálculo.pdf:PDF},
 }
 
+@Book{Bezerra1974,
+  author = {Manoel Jairo Bezerra},
+  date   = {1974-12-31},
+  title  = {Curso de Matemática},
+  year   = {1974},
+  file   = {:T\:/Livros/Manoel Jairo Bezerra/Curso de Matematica (241)/Curso de Matematica - Manoel Jairo Bezerra.pdf:PDF},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: fileDirectoryLatex-chico-CEREBRO:T:\\Estudar\\#01-Matematica\\!!03-Sem\\01-EDUCAÇÃO ESPECIAL (CEL1694-3734363) 9004\\Atividade-Estruturada\\Trab003\\bibliografia;}
