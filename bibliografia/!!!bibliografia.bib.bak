@@ -34,6 +34,11 @@
   file   = {:T\:/Livros/Manoel Jairo Bezerra/Curso de Matematica (241)/Curso de Matematica - Manoel Jairo Bezerra.pdf:PDF},
 }
 
+@Book{,
+  author = {Gelson Iezzi; Carlos Murakami; Nilson José Machado},
+  title  = {Fundamentos de Matematica Elementar - Vol.08: Limites, Derivadas e Noções de Integral},
+}
+
 @Comment{jabref-meta: databaseType:biblatex;}
 
 @Comment{jabref-meta: fileDirectoryLatex-chico-CEREBRO:T:\\Estudar\\#01-Matematica\\!!03-Sem\\01-EDUCAÇÃO ESPECIAL (CEL1694-3734363) 9004\\Atividade-Estruturada\\Trab003\\bibliografia;}
