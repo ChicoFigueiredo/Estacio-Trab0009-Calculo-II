@@ -35,7 +35,7 @@
 }
 
 @Book{Iezzi2013,
-  author = {Gelson Iezzi; Carlos Murakami; Nilson José Machado},
+  author = {Carlos Murakami; Nilson José Machado; Gelson Iezzi},
   date   = {2013-12-31},
   title  = {Fundamentos de Matematica Elementar - Vol.08: Limites, Derivadas e Noções de Integral},
   year   = {2013},
